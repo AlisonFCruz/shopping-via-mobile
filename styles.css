@@ -16,7 +16,7 @@
     display: inline-block;
     width: 60%;
     padding-left: 136px;
-    margin top: 25%;
+    margin-top: 25%;
 }
 
 .container-right {
@@ -87,4 +87,8 @@ a:hover {
 
 a:active {
     opacity: 0.8;
+}
+
+header {
+    margin: 24px 0 0 57px;
 }
