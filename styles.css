@@ -68,3 +68,12 @@ button:hover {
 button:active {
     opacity: .5;
 }
+
+a {
+    font-size: 28px;
+    line-height: 41px;
+    color: #5D5D7D;
+    margin-right: 41px;
+}
+
+
