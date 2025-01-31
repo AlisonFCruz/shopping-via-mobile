@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Oswald", serif;
+    font-weight: 400;
+    color: #5D5D7D;
 }
 
 .wrapper {
@@ -28,3 +30,27 @@ img {
     top: 25%;
     right: 130px;
 }
+
+h1 {
+    font-size: 70px;
+    line-height: 80px;
+}
+p  {
+    font-size: 28px;
+    line-height: 48px;
+}
+
+button {
+    width: 269px;
+    height: 62px;
+    background: #9499EA;
+    box-shadow: 0px 10px 24px rgba(148, 153, 234, 0.0979959);
+    border: none;
+    border-radius: 30px;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
